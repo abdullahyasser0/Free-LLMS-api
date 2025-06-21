@@ -1,20 +1,19 @@
-# Free-LLMS-api
-This notebook showcases free APIs for large language models (LLMs) that you can easily integrate into your own code or projects without any cost.
+# Free-LLMs-API
 
-inlist : 
+This notebook provides a curated list of **free APIs for Large Language Models (LLMs)** that you can integrate into your code or projects at no cost.
 
-Google Gemini API
-DeepSeek API
-Groq API
-OpenRouter
+## Included APIs:
 
-Cloudflare Workers AI
+- 🔷 **Google Gemini API**  
+- 🔷 **DeepSeek API**  
+- 🔷 **Groq API**  
+- 🔷 **OpenRouter API**  
+- 🔷 **Cloudflare Workers AI**  
+- 🔷 **Together AI API**  
+- 🔷 **Hugging Face Inference API**  
+- 🔷 **Mistral AI API**  
+- 🔷 **Ollama API**  
 
-Together AI
+Each API is presented with examples and usage instructions to help you get started quickly.
 
-Hugging Face Inference API
-
-Mistral AI API
-
-
-Ollama API
+> 💡 Ideal for developers, students, and researchers looking for free access to powerful LLMs.
