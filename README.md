@@ -2,43 +2,45 @@
 
 This notebook provides a curated list of **free APIs for Large Language Models (LLMs)** that you can integrate into your code or projects at no cost.
 
-## Included APIs:
+## Included APIs (with links to the notebook):
 
-- 🔷 **Google Gemini API**
-- 🔷 **DeepSeek API**
-- 🔷 **Groq API**
-- 🔷 **OpenRouter API**
-- 🔷 **Cloudflare Workers AI**
-- 🔷 **Together AI API**
-- 🔷 **Hugging Face Inference API**
-- 🔷 **Mistral AI API**
-- 🔷 **Ollama API**
+- 🔷 [Google Gemini API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb)
+- 🔷 [DeepSeek API]
+- 🔷 [Groq API]
+- 🔷 [OpenRouter API]
+- 🔷 [Cloudflare Workers AI]
+- 🔷 [Together AI API]
+- 🔷 [Hugging Face Inference API]
+- 🔷 [Mistral AI API]
+- 🔷 [Ollama API]
 
-Each API is presented with examples and usage instructions to help you get started quickly.
+Each API is documented in the notebook with usage examples, authentication setup, and tips.
 
 > 💡 Ideal for developers, students, and researchers looking for free access to powerful LLMs.
 
 ---
 
-## 🔷 Google Gemini API
+## Sample: Google Gemini API
+
+> 📍 Refer to the notebook [here](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb) and scroll to the **Google Gemini API** section.
 
 - **Models:**  
-  Includes **Gemini 1.5 Flash**, **Gemini 2.0 Flash**, and **Gemma** open models. Known for **multimodal capabilities** (text, images, audio) and **large context windows** (up to **1M tokens** for some models).
+  Includes **Gemini 1.5 Flash**, **Gemini 2.0 Flash**, and **Gemma** open models. Known for **multimodal capabilities** and **long context windows** (up to 1M tokens).
 
 - **Free Tier Limits:**  
-  - Up to **1,800 requests/day** for Gemini 1.5 Flash and Flash-8B.  
-  - ~1M tokens per minute.  
-  - Generous **free tier** available in over **40 countries** with **no credit card required**.
+  - 1,800 requests/day for Gemini 1.5 Flash and Flash-8B  
+  - ~1M tokens/minute  
+  - Available in 40+ countries — no credit card required
 
 - **How to Access:**  
-  - Sign up via [Google AI Studio](https://makersuite.google.com/app) to get your API key.  
-  - Visit [Google AI for Developers](https://ai.google.dev) for documentation and examples.
+  - Sign up via [Google AI Studio](https://makersuite.google.com/app)  
+  - Documentation: [Google AI for Developers](https://ai.google.dev)
 
 - **Best For:**  
-  - Multimodal tasks  
-  - Long-context conversations  
-  - Integration with Google’s ecosystem
+  - Multimodal reasoning  
+  - Long documents and conversations  
+  - Chatbots, content generation, code assistance
 
 - **Notes:**  
-  - Highly praised for its **speed** and **cost-effectiveness**.  
-  - Some users have reported **rate limit issues** during rapid/frequent requests.
+  - Fast, cost-effective, widely available  
+  - May hit rate limits on very frequent requests
