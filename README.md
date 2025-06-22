@@ -25,12 +25,8 @@ Each API is documented in the notebook with usage examples, authentication setup
 > 📍 Refer to the notebook [here](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb) and scroll to the **Google Gemini API** section.
 
 - **Models:**  
-  Includes **Gemini 1.5 Flash**, **Gemini 2.0 Flash**, and **Gemma** open models. Known for **multimodal capabilities** and **long context windows** (up to 1M tokens).
+  Includes **Gemini 2.0 Flash** and **Gemini 2.5 Flash** models. Known for **multimodal capabilities** and **long context windows** (up to 1M tokens).
 
-- **Free Tier Limits:**  
-  - 1,800 requests/day for Gemini 1.5 Flash and Flash-8B  
-  - ~1M tokens/minute  
-  - Available in 40+ countries — no credit card required
 
 - **How to Access:**  
   - Sign up via [Google AI Studio](https://makersuite.google.com/app)  
