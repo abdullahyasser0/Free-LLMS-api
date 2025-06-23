@@ -7,8 +7,8 @@ This notebook provides a curated list of **free APIs for Large Language Models (
 - 🔷 [Google Gemini API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb)
 - 🔷 [Groq API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/groq_api.ipynb)
 - 🔷 [OpenRouter API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/OpenRouter_API.ipynb)
-- 🔷 [Hugging Face Inference API]
-- 🔷 [Mistral AI API]
+- 🔷 [Hugging Face Inference API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Hugging_Face_Inference_API_.ipynb)
+- 🔷 [Mistral AI API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Mistral_AI_API_.ipynb)
 
 Each API is documented in the notebook with usage examples, authentication setup, and tips.
 
@@ -84,6 +84,33 @@ Each API is documented in the notebook with usage examples, authentication setup
   - Free tier is **token-limited**  
   - Optimize prompts to stay within limits  
   - Some models may have **regional restrictions**
+ 
+
+# Sample: Mistral AI API
+
+> 📍 Refer to the notebook and scroll to the **Mistral AI API** section.
+
+- **Models:**  
+  Offers **Mixtral 8x7B**, **Mistral 7B**, and **Codestral**.  
+  Open-weight models available for both research and commercial use.
+
+- **Free Tier Limits:**  
+  Free API access to smaller models like **Mistral 7B** with rate limits (e.g., **15 requests/minute**).  
+  Available via providers like **OpenRouter** or **Cloudflare Workers AI**.
+
+- **How to Access:**  
+  - Visit [Mistral AI](https://mistral.ai) or partners like [OpenRouter](https://openrouter.ai/)  
+  - Sign up and retrieve API keys  
+  - Use simple RESTful API endpoints
+
+- **Best For:**  
+  - General text generation  
+  - Coding tasks using **Codestral**
+
+- **Notes:**  
+  - Free access is limited  
+  - Larger models may require a paid plan  
+  - Performance varies by host/provider
 
 - **Notes:**  
   - Free tier is limited by daily requests  
