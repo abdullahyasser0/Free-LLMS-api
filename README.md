@@ -7,7 +7,7 @@ This notebook provides a curated list of **free APIs for Large Language Models (
 - 🔷 [Google Gemini API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb)
 - 🔷 [DeepSeek API]
 - 🔷 [Groq API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/groq_api.ipynb)
-- 🔷 [OpenRouter API]
+- 🔷 [OpenRouter API] (https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/OpenRouter_API.ipynb)
 - 🔷 [Cloudflare Workers AI]
 - 🔷 [Together AI API]
 - 🔷 [Hugging Face Inference API]
@@ -62,6 +62,32 @@ Each API is documented in the notebook with usage examples, authentication setup
   - High-speed inference  
   - Chatbots  
   - Lightweight applications needing fast responses
+ 
+
+## Sample: OpenRouter API
+
+> 📍 Refer to the notebook and scroll to the **OpenRouter API** section.
+
+- **Models:**  
+  Aggregates multiple open-source LLMs, including **DeepSeek R1**, **Llama 3.2**, **Qwen 2.5**, **Mistral**, and more. Acts as a **unified interface** for various providers.
+
+- **Free Tier Limits:**  
+  Free access to models like **DeepSeek-V3**, **Llama 3.1**, and **Qwen** with token-based limits (varies by model).  
+  $1–$5 credits often provided upon signup for testing.
+
+- **How to Access:**  
+  - Register at [OpenRouter](https://openrouter.ai/)  
+  - Configure API keys  
+  - Easily switch between models using a **single base URL**
+
+- **Best For:**  
+  - Experimenting with multiple LLMs  
+  - Centralized access without managing separate accounts
+
+- **Notes:**  
+  - Free tier is **token-limited**  
+  - Optimize prompts to stay within limits  
+  - Some models may have **regional restrictions**
 
 - **Notes:**  
   - Free tier is limited by daily requests  
