@@ -85,8 +85,33 @@ Each API is documented in the notebook with usage examples, authentication setup
   - Optimize prompts to stay within limits  
   - Some models may have **regional restrictions**
  
+## Sample: Hugging Face Inference API
 
-# Sample: Mistral AI API
+> 📍 Refer to the notebook [here](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Hugging_Face_Inference_API_.ipynb) and scroll to the **Hugging Face Inference API** section.
+
+- **Models:**  
+  Supports a wide range of models like **Sarvam-m**, **Llama-4-Scout-17B-16E-Instruct**, and **FLUX.1-dev**. Known for **multimodal capabilities** including text, vision-language models (VLM), and text-to-image generation.
+
+- **Free Tier Limits:**  
+  Free API access with rate limits (varies by model and provider). Requires an API key from Hugging Face.
+
+- **How to Access:**  
+  - Sign up at [Hugging Face](https://huggingface.co/settings/tokens) to generate a free API key  
+  - Store the API key securely (e.g., in Colab secrets)  
+  - Use the `huggingface_hub` library or REST API for integration  
+
+- **Best For:**  
+  - Multimodal tasks (text, image generation, feature extraction)  
+  - Chatbots, content generation, and vision-language applications  
+  - Experimenting with diverse open-source models  
+
+- **Notes:**  
+  - Free tier has **rate limits**; heavy usage may require a paid plan  
+  - Supports multiple providers like **HF Inference**, **Fireworks AI**, and **Together AI**  
+  - Some models may require specific provider configurations
+ 
+
+## Sample: Mistral AI API
 
 > 📍 Refer to the notebook and scroll to the **Mistral AI API** section.
 
