@@ -7,7 +7,7 @@ This notebook provides a curated list of **free APIs for Large Language Models (
 - 🔷 [Google Gemini API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/Gemeni_API_.ipynb)
 - 🔷 [DeepSeek API]
 - 🔷 [Groq API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/groq_api.ipynb)
-- 🔷 [OpenRouter API] (https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/OpenRouter_API.ipynb)
+- 🔷 [OpenRouter API](https://github.com/abdullahyasser0/Free-LLMS-api/blob/main/OpenRouter_API.ipynb)
 - 🔷 [Cloudflare Workers AI]
 - 🔷 [Together AI API]
 - 🔷 [Hugging Face Inference API]
